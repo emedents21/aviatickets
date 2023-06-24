@@ -1,0 +1,19 @@
+Best Tickets Company
+
+---Cashier's check---
+
+Buyer's name : Egor
+Buyer's surname : Medentsov
+Number of purchased tickets : 3
+1. Flight Kyiv - Paris on date 15.06.2023 from AviaSales 
+2. The price of one ticket : 259 dollar(s)
+3. Your plane will be :  Avialainer777
+4. Flight time : 4.95 hour(s)
+5. The number of transfers : 2
+6. Seat(s) on the plane : 71 72 73 ;
+7. Availability of luggage : Yes
+8. The total price will be : 777 dollar(s)
+
+Purchase time : Mon Jun 12 18:30:44 2023
+
+---We wish you a good day---

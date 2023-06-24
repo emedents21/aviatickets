@@ -1,0 +1,8 @@
+Your name: Egor
+Your surname: Medentsov
+Your phone: +380500478709
+From fly: Kyiv
+Where fly: Paris
+Date of flight: 15.06.2023
+Number of tickets: 3
+Baggage: Yes
